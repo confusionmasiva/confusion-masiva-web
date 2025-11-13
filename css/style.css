@@ -145,7 +145,7 @@ body {
 }
 
 #reproductor h2 {
-  color: #00ff66; 
+  color: #00ff66; /* Verde característico del sitio */
   font-weight: bold;
 }
 
@@ -168,18 +168,3 @@ body {
   box-shadow: 0 0 20px rgba(0, 255, 0, 0.3); 
 }
 
-#merch .card,
-#merch .card h5,
-#merch .card p {
-  color: #fff !important;
-}
-
-
-#merch .card .fw-bold {
-  color: #00ff66 !important;
-}
-
-#merch .card .fw-bold {
-  color: #00ff66 !important;
-  text-shadow: 0 0 8px #00ff66;
-}
