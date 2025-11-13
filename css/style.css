@@ -140,3 +140,16 @@ body {
   }
 }
 
+#reproductor {
+  color: #fff;
+}
+
+#reproductor h2 {
+  color: #00ff66; /* Verde característico del sitio */
+  font-weight: bold;
+}
+
+#reproductor iframe {
+  box-shadow: 0 0 20px rgba(0, 255, 100, 0.2);
+}
+
